@@ -1,18 +1,22 @@
-# List of Resources Template
+# Computer Science
 
 <a href="https://github.com/VasileUngureanu/repository-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
 
-> A template for creating new repositories in the form of a list of resources
+> A list of resources on Computer Science
 
 There are hundreds and thousands of resources on the internet for this topic, but only a few of them have a high concentration of valuable content.
 
 ## Contents
 
-* []()
+* ["Code" book](https://www.goodreads.com/book/show/44882.Code)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* [Crash Course: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* [Computer Science](https://www.youtube.com/channel/UCSX3MR0gnKDxyXAyljWzm0Q)
+* [Computerphile](https://www.youtube.com/user/Computerphile)
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
 ## Usage
 
-1. [Creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template).
 1. After local cloning run `./bootstrap.sh`.
 
 License
